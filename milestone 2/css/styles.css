@@ -1,0 +1,90 @@
+body
+{
+	background-image: url("../images/1.jpg");
+  background: auto;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+h1
+{
+  color: white;
+  margin-top: 150px;
+	font-size: 50px;
+  font-family:sans-serif;
+}
+input
+{
+  text-align: center;
+  margin-bottom: 15px;
+  display: block;
+}
+label
+{
+  margin-bottom: 30px;
+  font-size: 25px;
+  color: white;
+}
+.MyText
+{
+  width: 50%;
+  height: 30px;
+  border-radius: 10px;
+}
+.MyDiv
+{
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 130px;
+}
+.MyDiv2
+{
+  align-items: center;
+}
+.MyForm
+{
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 500px;
+}
+.HomeButton
+{
+  background-color: #4CAF50;
+  padding: 15px 30px;
+  border: none;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  margin-bottom: 15px;
+  width: 350px;
+  border-radius: 15px;
+}
+
+.HomeButton:hover
+{
+  background: #006400;
+  cursor: pointer;
+}
+.MiniButton
+{
+  background-color: #4CAF50;
+  padding: 15px 30px;
+  border: none;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 15px;
+  border-radius: 15px;
+
+}
+
+.MiniButton:hover
+{
+  background: #006400;
+  cursor: pointer;
+}
+
